@@ -1,0 +1,129 @@
+about:
+  description: "Open-source, Bloomberg-style stock dashboard for the terminal: live quotes and candlestick charts next to AI-scored news, SEC Form 4 insider filings and earnings reads from AlphAI. One Rust binary on ratatui."
+  license: MIT
+  homepage: https://alphai.io
+  head: 0ef4911
+  archived: false
+  latestVersion: "v0.22.0"
+  latestRelease: "v0.22.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-12T22:22:58Z
+timeline:
+  created: 2026-07-10
+  lastCommit: 2026-09-12
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
+  lastPrerelease: 
+popularity:
+  star: 33
+  watcher: 1
+  fork: 2
+  release: 17
+  contributor: 1
+  pullRequest: 0
+  issue: 1
+language:
+  Rust: 825792
+  Shell: 20705
+  Tape: 10814
+  HTML: 3181
+totalBytes: 860492
+recent:
+  last30d:
+    since: 2026-08-13
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 28
+  last60d:
+    since: 2026-07-14
+    release: 15
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 48
+  last90d:
+    since: 2026-06-14
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 89
+  last180d:
+    since: 2026-03-16
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 89
+  last360d:
+    since: 2025-09-17
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 89
+  last720d:
+    since: 2024-09-22
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 89
+total:
+  release: 17
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 1
+  openIssue: 0
+  commit: 89
+---
+path: /home/runner/.x-repo/github.com/makeev/alphai-tui
+collectedAt: 2026-09-12T22:22:59Z
+loc:
+  Rust:
+    code: 18019
+    comments: 827
+    blanks: 1432
+    files: 38
+  Sh:
+    code: 366
+    comments: 107
+    blanks: 55
+    files: 5
+  Html:
+    code: 44
+    comments: 0
+    blanks: 5
+    files: 1
+  Toml:
+    code: 40
+    comments: 10
+    blanks: 3
+    files: 2
+  Yaml:
+    code: 38
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1099
+    blanks: 234
+    files: 5
+total:
+  code: 18614
+  comments: 4195
+  blanks: 1787
+  files: 52
+---
+
+---
+{"id":386966543,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOTUmYAs4XEKQP","tag_name":"v0.22.0","target_commitish":"636bca009658bf612d4c48d5dbb587de24d596a3","name":"0.22.0 - 2026-09-11","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-11T10:44:52Z","updated_at":"2026-09-11T10:52:46Z","published_at":"2026-09-11T10:50:24Z","assets":[{"id":557060847,"node_id":"RA_kwDOTUmYAs4hNBLv","name":"alphai-tui-aarch64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":2641452,"digest":"sha256:adeaf44eab37582638b41a709f2997f9c42f927a0d0633b6cad9aeb247539d07","download_count":2,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060849,"node_id":"RA_kwDOTUmYAs4hNBLx","name":"alphai-tui-aarch64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":106,"digest":"sha256:4a479394b55324feee279e831f2e5d0481ff918dc02454e1afdf718622a98666","download_count":0,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060848,"node_id":"RA_kwDOTUmYAs4hNBLw","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":2795492,"digest":"sha256:beb05b6a0cb39aafb1b6b0522a859f0822d4a6707ec64e467cdf469d6776ca75","download_count":4,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060853,"node_id":"RA_kwDOTUmYAs4hNBL1","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":111,"digest":"sha256:53ef5b75b07af622f8ae59de3b512cdc16a1e72783bac922b9d3499d7f66fbbc","download_count":0,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060850,"node_id":"RA_kwDOTUmYAs4hNBLy","name":"alphai-tui-installer.ps1","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22331,"digest":"sha256:8e4cf8208bc996d214c3756832f2d89242dfee5688556f4ba78b063f092f0fa0","download_count":0,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060865,"node_id":"RA_kwDOTUmYAs4hNBMB","name":"alphai-tui-installer.sh","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-shellscript","state":"uploaded","size":54195,"digest":"sha256:de4e2ba1185f6ddffea91540a637507667da0e50caba1c30b8a89cbd3f3676f0","download_count":1,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060872,"node_id":"RA_kwDOTUmYAs4hNBMI","name":"alphai-tui-x86_64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":2923540,"digest":"sha256:19cc76d25dae2b5420879c18999712baae352f5765ffb110ddad6c10af4409a9","download_count":0,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060873,"node_id":"RA_kwDOTUmYAs4hNBMJ","name":"alphai-tui-x86_64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:e655929d47052a2ccfda4c059596e8d4e5e8f8fc41a3413e43123f08e72b1aee","download_count":0,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:22Z"},{"id":557060877,"node_id":"RA_kwDOTUmYAs4hNBMN","name":"alphai-tui-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3775850,"digest":"sha256:3c765bba05b9a3575141c2dce808e3a85a7aaa78f63aff53e59b854b3a544485","download_count":4,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060878,"node_id":"RA_kwDOTUmYAs4hNBMO","name":"alphai-tui-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:5461899424d1d0cd2bd687aa6f7d723d0008a18985eeed3ce08fc33ce64e0c8f","download_count":1,"created_at":"2026-09-11T10:50:22Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060882,"node_id":"RA_kwDOTUmYAs4hNBMS","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3038552,"digest":"sha256:9cb1de0b190f0886f505320e547c1717654f611b2453833b4e559bd23edd0d4e","download_count":8,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060886,"node_id":"RA_kwDOTUmYAs4hNBMW","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":110,"digest":"sha256:13326b6aa56f2adb357910bcb88191fa30e8c4025cef716af8fb13df3a97da59","download_count":0,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060895,"node_id":"RA_kwDOTUmYAs4hNBMf","name":"alphai-tui.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":2478,"digest":"sha256:b496e5e13235d188f39441962c52b1631d11edb04b2432f891841cd61d8511f1","download_count":0,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060897,"node_id":"RA_kwDOTUmYAs4hNBMh","name":"dist-manifest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":28187,"digest":"sha256:5ccebb0160242850f77e37968277da2c5d0996769856780a10351d5c9de95e79","download_count":0,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060898,"node_id":"RA_kwDOTUmYAs4hNBMi","name":"sha256.sum","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":613,"digest":"sha256:42c3f3ec5dab7b29804ee0f5181c66fc8138bb6504a62415604ea11923edf957","download_count":1,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:23Z"},{"id":557060904,"node_id":"RA_kwDOTUmYAs4hNBMo","name":"source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":8053660,"digest":"sha256:8e8b484a438c9e8d913caf505c18f21c709f0997c5d8b8154b1e2c84d3915c99","download_count":0,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:24Z"},{"id":557060908,"node_id":"RA_kwDOTUmYAs4hNBMs","name":"source.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81,"digest":"sha256:0a0b658d643c12d0d18ce45f581d80264a09ef641b4e1ec794cd4dc0cb615a83","download_count":0,"created_at":"2026-09-11T10:50:23Z","updated_at":"2026-09-11T10:50:24Z"}],"body":"## Release Notes\n\n- Portfolio valuations include premarket and after-hours prices whenever\n  the source reports them, independently of the extended-candle toggle.\n  The portfolio, holding columns, quote rail and JSON use the same price;\n  `Last` marks an extended price with `*`, and JSON exposes it as\n  `position.price`. Premarket `Day` is measured from the latest regular\n  close; after hours it includes the regular session's move as well.\n- A Portfolio view, `8`, for what you actually hold: quantity, average\n  price, value, the day's move in money, the profit or loss since you\n  bought and the share of the portfolio each ticker carries, with a total\n  underneath. It was the one thing the widely used tools here are built\n  around and this one had no answer to.\n- `p` sets the holding for the ticker under the cursor, from any view: a\n  quantity and an average price on one line, prefilled with what is held,\n  an empty line clearing it. Unlike every other runtime change, it is\n  written to the config file straight away, because a quantity and a price\n  are your data rather than a display preference.\n- Holdings can be written by hand as `[[positions]]` entries with\n  `symbol`, `qty` and `avg_price`. A fractional quantity is fine, and a\n  negative one is a short, which profits when the price falls.\n- A held ticker that is not on the watchlist is polled all the same, so\n  every row can be valued; the startup warning about a source's request\n  budget counts those tickers too. A row whose first price has not arrived\n  says so instead of being summed in as zero, and the total states how\n  many rows it covers.\n- The watchlist table grows `Value` and `P&L` columns, and the quote rail\n  a zone with the same numbers, but only for tickers you hold. Totals that\n  span several currencies are labelled `mixed currencies`: there is no\n  conversion here, and a sum across currencies should not look exact.\n- `--json` carries a `position` object for a held ticker, with the cost,\n  the value, the profit or loss and its percentage, so a status bar can\n  show the money instead of the price.\n- **The color presets moved from `p` and `P` to `}` and `{`**, which is\n  what freed `p`. The old keys are two lines away in the config:\n  `[keybindings] next_theme = \"p\"` and `prev_theme = \"P\"`.\n- The config file is now written to a temporary file and renamed into\n  place. It holds API keys, and it is written on every position edit, so a\n  half-finished write should never be able to replace it.\n- Prices that survive a source fallback are labelled with their real age\n  instead of passing as live: a quote carries the source it came from, and\n  a row inherited from the abandoned one keeps the time it was fetched.\n  Adding credentials in the settings screen also makes a fallback search\n  that had run out of options worth trying again.\n- The quote cache is written out when the app exits, so a session shorter\n  than its flush interval still leaves its prices behind for the next\n  start, and a failed write backs off like a successful one.\n- News marks respect the length of a candle: a mark lands on the bar whose\n  interval actually contains its publish time, so an overnight gap or a\n  missing recent bar no longer pins unrelated news to the last candle.\n\n### Also in this build\n\n0.21.0 was never tagged on its own, so everything in it ships here too:\n\n- The price chart marks the ticker's news on the candles it was published\n  in: `\u25b2` or `\u25bc` for the AI sentiment call, `\u25c6` when it is neutral, dimmer\n  or brighter with the relevance score, and the freshest of them named on\n  the chart's bottom border. The scored news was the one thing here no\n  other terminal stock tool has, and it lived in a view of its own, so a\n  chart-first reader never saw it; now the move and its reason share a\n  column. `n` toggles the marks, `[chart] news_markers = false` starts\n  without them, and the action is rebindable as `news_markers`.\n- The marks cost no API request. They are drawn from the news bundle the\n  Split and News views already keep fresh for the selected ticker, which\n  also means they are absent until one of those views has loaded it.\n- Rows older than the first candle on screen are dropped rather than\n  pinned to the left edge, and a candle that carried several stories keeps\n  the highest-scoring one, so a busy day stays readable.\n- The Split view's footer drops its `s settings` hint to stay inside 110\n  columns, the way the News footer already does. `?` still lists it.\n- A blocked or throttled price source no longer means an empty screen. The\n  last good quotes and candles are kept in the platform cache directory and\n  drawn while the first poll is in flight, labelled `cached 2h ago` on the\n  quote rail until live data lands. Entries older than a week, or taken\n  with a different range and interval, are ignored.\n- Yahoo's `429` now says what it is: an IP block that lasts tens of minutes\n  (measured: 19 minutes after about ten requests, over an hour for the\n  second one that day), with the advice to switch source. It is also no\n  longer retried, since another request only feeds the counter that holds\n  the block open. Alpaca's 429, which is a genuine transient refusal, keeps\n  its retries.\n- When every ticker has been failing for 45 seconds, the app switches to\n  another source that has its credentials, keeps the rows already on\n  screen, and says so in the footer. It never switches back on its own and\n  never returns to a source that failed this session; `source_fallback =\n  false` in the config turns it off.\n- `--json` prints the one-shot quote run as a JSON array instead of a text\n  table, for status bars and cron jobs: price, the move from the previous\n  close, the extended print with its own move from the regular close, the\n  day and 52 week ranges, volume and the source. It implies `--once`.\n  Absent figures are left out rather than sent as null, a symbol that\n  failed gets a row carrying its error, and warnings stay on stderr so\n  stdout is a valid document.\n"}
