@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:53ef5b75b07af622f8ae59de3b512cdc16a1e72783bac922b9d3499d7f66fbbc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T10:50:22Z",
       "updated_at": "2026-09-11T10:50:22Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22331,
       "digest": "sha256:8e4cf8208bc996d214c3756832f2d89242dfee5688556f4ba78b063f092f0fa0",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T10:50:22Z",
       "updated_at": "2026-09-11T10:50:22Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54195,
       "digest": "sha256:de4e2ba1185f6ddffea91540a637507667da0e50caba1c30b8a89cbd3f3676f0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-11T10:50:22Z",
       "updated_at": "2026-09-11T10:50:22Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui-installer.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3038552,
       "digest": "sha256:9cb1de0b190f0886f505320e547c1717654f611b2453833b4e559bd23edd0d4e",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-11T10:50:23Z",
       "updated_at": "2026-09-11T10:50:23Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:13326b6aa56f2adb357910bcb88191fa30e8c4025cef716af8fb13df3a97da59",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T10:50:23Z",
       "updated_at": "2026-09-11T10:50:23Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2478,
       "digest": "sha256:b496e5e13235d188f39441962c52b1631d11edb04b2432f891841cd61d8511f1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T10:50:23Z",
       "updated_at": "2026-09-11T10:50:23Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/alphai-tui.rb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 613,
       "digest": "sha256:42c3f3ec5dab7b29804ee0f5181c66fc8138bb6504a62415604ea11923edf957",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-11T10:50:23Z",
       "updated_at": "2026-09-11T10:50:23Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/sha256.sum"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8053660,
       "digest": "sha256:8e8b484a438c9e8d913caf505c18f21c709f0997c5d8b8154b1e2c84d3915c99",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T10:50:23Z",
       "updated_at": "2026-09-11T10:50:24Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.22.0/source.tar.gz"
