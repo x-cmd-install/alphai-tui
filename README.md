@@ -38,7 +38,7 @@ Total: **18,507** lines of code across **47** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33 · **Forks**: 2 · **Open issues**: 1 · **Contributors**: 1
+- **Stars**: 35 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **18,507** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 8 | 0 | 0 | 0 | 0 | 28 |
-| last60d | 2026-07-14 | 15 | 0 | 0 | 1 | 0 | 48 |
-| 90d | 2026-06-14 | 17 | 0 | 0 | 1 | 0 | 89 |
-| last180d | 2026-03-16 | 17 | 0 | 0 | 1 | 0 | 89 |
-| 360d | 2025-09-17 | 17 | 0 | 0 | 1 | 0 | 89 |
-| last720d | 2024-09-22 | 17 | 0 | 0 | 1 | 0 | 89 |
+| 30d | 2026-08-14 | 8 | 0 | 0 | 0 | 0 | 28 |
+| last60d | 2026-07-15 | 15 | 0 | 0 | 1 | 0 | 48 |
+| 90d | 2026-06-15 | 17 | 0 | 0 | 1 | 0 | 89 |
+| last180d | 2026-03-17 | 17 | 0 | 0 | 1 | 0 | 89 |
+| 360d | 2025-09-18 | 17 | 0 | 0 | 1 | 0 | 89 |
+| last720d | 2024-09-23 | 17 | 0 | 0 | 1 | 0 | 89 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T22:23:04Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:21:37Z._
