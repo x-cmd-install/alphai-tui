@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2687460,
       "digest": "sha256:61e84c0da9ae76de898cdddbe2e1a1612f06337b222cbcff3473d6c503d2b4f1",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-14T10:13:48Z",
       "updated_at": "2026-09-14T10:13:48Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.23.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22331,
       "digest": "sha256:753098bdffe39f58684e8f57373a9f5f659bda1e9b688d866599fea5f42ddb94",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-14T10:13:48Z",
       "updated_at": "2026-09-14T10:13:48Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.23.0/alphai-tui-installer.ps1"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3838402,
       "digest": "sha256:db24e7d2220f9f0c2121e8b490bb36a7f76de2d8ebff450ab6cd98215156d3e1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-14T10:13:48Z",
       "updated_at": "2026-09-14T10:13:49Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.23.0/alphai-tui-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3083416,
       "digest": "sha256:8e108b30c0d82114be0ab24b9e6ed46a89c3186fea39bc373e491cdcf10df55f",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-09-14T10:13:48Z",
       "updated_at": "2026-09-14T10:13:49Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.23.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
