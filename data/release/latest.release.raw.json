@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2721972,
       "digest": "sha256:a80303885068f273b193f24ea56f7b601680a172b86ae316ec133865e438b367",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-17T10:47:09Z",
       "updated_at": "2026-09-17T10:47:10Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.24.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54195,
       "digest": "sha256:b4263e6301b4148205f0918d15fcaa015cf04defd273c240227fb6e7fd98e485",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-17T10:47:10Z",
       "updated_at": "2026-09-17T10:47:10Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.24.0/alphai-tui-installer.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3127384,
       "digest": "sha256:91f4ad3a2690b5f31e5416832ff3d37b18ca1c1b6bd8d8889958f33290b645f5",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-09-17T10:47:10Z",
       "updated_at": "2026-09-17T10:47:11Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.24.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
