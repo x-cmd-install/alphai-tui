@@ -4,7 +4,7 @@
 
 Open-source, Bloomberg-style stock dashboard for the terminal: live quotes and candlestick charts next to AI-scored news, SEC Form 4 insider filings and earnings reads from AlphAI. One Rust binary on ratatui.
 
-![alphai-tui](https://repo.x-cmd.io/alphai-tui.svg)
+[![x-cmd/install — alphai-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/alphai-tui.svg)](https://x-cmd.com/install/alphai-tui)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **22,336** lines of code across **53** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.24.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 45 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 1
+- **Stars**: 47 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 96
+- **Releases**: 22 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 97
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 20 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-06-20 | 22 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-22 | 22 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-09-23 | 22 | 0 | 0 | 1 | 0 | 0 |
-| last720d | 2024-09-28 | 22 | 0 | 0 | 1 | 0 | 96 |
+| 30d | 2026-08-21 | 13 | 0 | 0 | 0 | 0 | 32 |
+| last60d | 2026-07-22 | 19 | 0 | 0 | 1 | 0 | 43 |
+| 90d | 2026-06-22 | 22 | 0 | 0 | 1 | 0 | 97 |
+| last180d | 2026-03-24 | 22 | 0 | 0 | 1 | 0 | 97 |
+| 360d | 2025-09-25 | 22 | 0 | 0 | 1 | 0 | 97 |
+| last720d | 2024-09-30 | 22 | 0 | 0 | 1 | 0 | 97 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:31:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:35Z._
