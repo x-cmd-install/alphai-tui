@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3127384,
       "digest": "sha256:91f4ad3a2690b5f31e5416832ff3d37b18ca1c1b6bd8d8889958f33290b645f5",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-09-17T10:47:10Z",
       "updated_at": "2026-09-17T10:47:11Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.24.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
