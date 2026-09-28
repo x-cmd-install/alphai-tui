@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2726512,
       "digest": "sha256:cf4b05e5d25ead51529e274675f880439355f58394db3cc9aa28f9c00dbe026e",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-27T06:22:49Z",
       "updated_at": "2026-09-27T06:22:50Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.25.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2892376,
       "digest": "sha256:ca7f8d5a7a3ccc49c52262c8bf71522d72dbed24c5652b07c8e142a9d96103af",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-09-27T06:22:49Z",
       "updated_at": "2026-09-27T06:22:50Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.25.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3900397,
       "digest": "sha256:794ce6224815576c7fa8a5ee78511693986a847fb7668d6da4e5eff49b68920d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-27T06:22:50Z",
       "updated_at": "2026-09-27T06:22:50Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.25.0/alphai-tui-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3137092,
       "digest": "sha256:88e60c17879b1e2f40c2d38a7d46e7572992895897f9ea5826ffb4813cee2519",
-      "download_count": 0,
+      "download_count": 10,
       "created_at": "2026-09-27T06:22:50Z",
       "updated_at": "2026-09-27T06:22:50Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.25.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 613,
       "digest": "sha256:84c2318f8177367245ca814b184f7445282a2e245821921744b27380462a239d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-27T06:22:51Z",
       "updated_at": "2026-09-27T06:22:51Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.25.0/sha256.sum"
