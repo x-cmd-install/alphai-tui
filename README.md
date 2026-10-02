@@ -14,11 +14,11 @@ x install alphai-tui
 
 ## Code insight
 
-Total: **25,948** lines of code across **55** files in the top 5 languages.
+Total: **26,233** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,389 | 950 | 1,825 | 45 |
+| Rust | 25,674 | 946 | 1,832 | 46 |
 | Sh | 416 | 130 | 57 | 6 |
 | Html | 44 | 0 | 5 | 1 |
 | Toml | 40 | 10 | 3 | 2 |
@@ -32,8 +32,8 @@ Total: **25,948** lines of code across **55** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.28.0` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Latest**: `v0.29.0` (2026-10-01)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 17
 
 ## Popularity
@@ -42,40 +42,40 @@ Total: **25,948** lines of code across **55** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 106
+- **Releases**: 28 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 17 | 0 | 0 | 0 | 0 | 40 |
-| last60d | 2026-08-02 | 20 | 0 | 0 | 0 | 0 | 49 |
-| 90d | 2026-07-03 | 27 | 0 | 0 | 1 | 0 | 106 |
-| last180d | 2026-04-04 | 27 | 0 | 0 | 1 | 0 | 106 |
-| 360d | 2025-10-06 | 27 | 0 | 0 | 1 | 0 | 106 |
-| last720d | 2024-10-11 | 27 | 0 | 0 | 1 | 0 | 106 |
+| 30d | 2026-09-02 | 18 | 0 | 0 | 0 | 0 | 43 |
+| last60d | 2026-08-03 | 21 | 0 | 0 | 0 | 0 | 52 |
+| 90d | 2026-07-04 | 28 | 0 | 0 | 1 | 0 | 109 |
+| last180d | 2026-04-05 | 28 | 0 | 0 | 1 | 0 | 109 |
+| 360d | 2025-10-07 | 28 | 0 | 0 | 1 | 0 | 109 |
+| last720d | 2024-10-12 | 28 | 0 | 0 | 1 | 0 | 109 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.7 MiB | `native/darwin/arm64` |
-| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/arm64/glibc` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
-| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
-| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 3.0 MiB | `native/darwin/x64` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 3.8 MiB | `native/win/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.1 MiB | `native/linux/x64/glibc` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
-| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/alphai-tui.rb) | 2.4 KiB | `other` |
-| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/dist-manifest.json) | 24.3 KiB | `other` |
-| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/sha256.sum) | 613 B | `other` |
-| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.28.0/source.tar.gz.sha256) | 81 B | `other` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.7 MiB | `native/darwin/arm64` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/arm64/glibc` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
+| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 2.9 MiB | `native/darwin/x64` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 3.8 MiB | `native/win/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.1 MiB | `native/linux/x64/glibc` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui.rb) | 2.4 KiB | `other` |
+| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/dist-manifest.json) | 23.5 KiB | `other` |
+| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/sha256.sum) | 613 B | `other` |
+| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:02:45Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:51:50Z._
