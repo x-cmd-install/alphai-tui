@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/makeev/alphai-tui/releases/401250576",
-  "assets_url": "https://api.github.com/repos/makeev/alphai-tui/releases/401250576/assets",
-  "upload_url": "https://uploads.github.com/repos/makeev/alphai-tui/releases/401250576/assets{?name,label}",
-  "html_url": "https://github.com/makeev/alphai-tui/releases/tag/v0.29.0",
-  "id": 401250576,
+  "url": "https://api.github.com/repos/makeev/alphai-tui/releases/403518127",
+  "assets_url": "https://api.github.com/repos/makeev/alphai-tui/releases/403518127/assets",
+  "upload_url": "https://uploads.github.com/repos/makeev/alphai-tui/releases/403518127/assets{?name,label}",
+  "html_url": "https://github.com/makeev/alphai-tui/releases/tag/v0.30.0",
+  "id": 403518127,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOTUmYAs4X6pkQ",
-  "tag_name": "v0.29.0",
-  "target_commitish": "c2e363ef6632c7330143d27154cd311434d430a4",
-  "name": "0.29.0 - 2026-10-01",
+  "node_id": "RE_kwDOTUmYAs4YDTKv",
+  "tag_name": "v0.30.0",
+  "target_commitish": "fd6f6311e667cc814012c6a1623cf11f63aada63",
+  "name": "0.30.0 - 2026-10-05",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-01T18:34:38Z",
-  "updated_at": "2026-10-01T18:42:28Z",
-  "published_at": "2026-10-01T18:42:28Z",
+  "created_at": "2026-10-05T08:28:10Z",
+  "updated_at": "2026-10-05T08:37:22Z",
+  "published_at": "2026-10-05T08:37:22Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894178",
-      "id": 603894178,
-      "node_id": "RA_kwDOTUmYAs4j_rGi",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987566",
+      "id": 611987566,
+      "node_id": "RA_kwDOTUmYAs4kejBu",
       "name": "alphai-tui-aarch64-apple-darwin.tar.xz",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 2799360,
-      "digest": "sha256:734acfa6172c5f5af152ac4e652abe53a71dedf60ec6fe2ccb1f5c7f3aa5ced2",
-      "download_count": 11,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:25Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz"
+      "size": 2859936,
+      "digest": "sha256:c74403ff4e6050c40394eba80e51c316451775da05a29ae08f8336e5150a851e",
+      "download_count": 2,
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894171",
-      "id": 603894171,
-      "node_id": "RA_kwDOTUmYAs4j_rGb",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987562",
+      "id": 611987562,
+      "node_id": "RA_kwDOTUmYAs4kejBq",
       "name": "alphai-tui-aarch64-apple-darwin.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 106,
-      "digest": "sha256:ac3abbf7762cba55e71dd007b421a01866104e66cca544cfe27c16d50a36b21c",
+      "digest": "sha256:6c4e83e3e45d0e1718a0e1eace0e900b8651408682d7f815a5a7799f38dbfcf5",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:25Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256"
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:19Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894177",
-      "id": 603894177,
-      "node_id": "RA_kwDOTUmYAs4j_rGh",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987573",
+      "id": 611987573,
+      "node_id": "RA_kwDOTUmYAs4kejB1",
       "name": "alphai-tui-aarch64-unknown-linux-gnu.tar.xz",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 2966920,
-      "digest": "sha256:e762bcab72778cbd40afaabdb466647537639f8c62b0fca03d28f3a7e35a1954",
+      "size": 3044972,
+      "digest": "sha256:4fba8cd6f393fb37e0c0c15fe2fa822dcdadd7b415e823e7f29294a70aa0489e",
       "download_count": 3,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:25Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz"
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894172",
-      "id": 603894172,
-      "node_id": "RA_kwDOTUmYAs4j_rGc",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987568",
+      "id": 611987568,
+      "node_id": "RA_kwDOTUmYAs4kejBw",
       "name": "alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -174,16 +174,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 111,
-      "digest": "sha256:31df10cde79ae3742fe162b9c6331d8b9f54399649619ca66c1ad84b5524bd82",
+      "digest": "sha256:9140457dc07fbec94fc79136787b92c3bb7dd69b45bda6c6231a78c532d9edef",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:25Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256"
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:19Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894176",
-      "id": 603894176,
-      "node_id": "RA_kwDOTUmYAs4j_rGg",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987561",
+      "id": 611987561,
+      "node_id": "RA_kwDOTUmYAs4kejBp",
       "name": "alphai-tui-installer.ps1",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 22331,
-      "digest": "sha256:ab6282d021c32db74a8da77c6f61c24e9f40d085fc90e491dbd1c6366349dea9",
-      "download_count": 13,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:25Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.ps1"
+      "digest": "sha256:d92cddd2b7deb0185068d9ee778ec289184431c282eac75942aee427276f4cf3",
+      "download_count": 1,
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:19Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.ps1"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894198",
-      "id": 603894198,
-      "node_id": "RA_kwDOTUmYAs4j_rG2",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987587",
+      "id": 611987587,
+      "node_id": "RA_kwDOTUmYAs4kejCD",
       "name": "alphai-tui-installer.sh",
       "label": "",
       "uploader": {
@@ -246,16 +246,16 @@
       "content_type": "application/x-shellscript",
       "state": "uploaded",
       "size": 54195,
-      "digest": "sha256:e54057b920d14a70b1448876b2bbb129cd9c5644c83d22ac71a8fd5fb0199a93",
-      "download_count": 1,
-      "created_at": "2026-10-01T18:42:25Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.sh"
+      "digest": "sha256:8fd9f08535f73919b1982a8b6359cf075ee39fc212c9f09ff0f61cdaf27a2730",
+      "download_count": 0,
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.sh"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894200",
-      "id": 603894200,
-      "node_id": "RA_kwDOTUmYAs4j_rG4",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987585",
+      "id": 611987585,
+      "node_id": "RA_kwDOTUmYAs4kejCB",
       "name": "alphai-tui-x86_64-apple-darwin.tar.xz",
       "label": "",
       "uploader": {
@@ -281,17 +281,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 3091792,
-      "digest": "sha256:3e9eff16b8c0c34049f969add5ed73e96d2e0ddd4686204cba1762db64c7bd5e",
+      "size": 3160308,
+      "digest": "sha256:697bed1aa84c254b6ed1de9e94f1b5f70ad4d5422f739a341e9cb0638adfe3ce",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz"
+      "created_at": "2026-10-05T08:37:19Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894204",
-      "id": 603894204,
-      "node_id": "RA_kwDOTUmYAs4j_rG8",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987594",
+      "id": 611987594,
+      "node_id": "RA_kwDOTUmYAs4kejCK",
       "name": "alphai-tui-x86_64-apple-darwin.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -318,16 +318,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 105,
-      "digest": "sha256:595a29791cdd0e69a946c6653117edae70807ef36d52261fecf44e94b4ca38dc",
+      "digest": "sha256:7e2337a6cf17d5b6c99482be3e117da011d8b9e33c25ea677a39994e5cb46202",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256"
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894205",
-      "id": 603894205,
-      "node_id": "RA_kwDOTUmYAs4j_rG9",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987603",
+      "id": 611987603,
+      "node_id": "RA_kwDOTUmYAs4kejCT",
       "name": "alphai-tui-x86_64-pc-windows-msvc.zip",
       "label": "",
       "uploader": {
@@ -353,17 +353,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 4021671,
-      "digest": "sha256:effe0603b222755786657a13b3391324464e9c2fe3bd5e3dc6c5a637009fefbb",
-      "download_count": 7,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip"
+      "size": 4074319,
+      "digest": "sha256:617acda8eea35f421141039a797a1c57f76a63a9c3542ab1b08eb61ef8ad6409",
+      "download_count": 1,
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894207",
-      "id": 603894207,
-      "node_id": "RA_kwDOTUmYAs4j_rG_",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987611",
+      "id": 611987611,
+      "node_id": "RA_kwDOTUmYAs4kejCb",
       "name": "alphai-tui-x86_64-pc-windows-msvc.zip.sha256",
       "label": "",
       "uploader": {
@@ -390,16 +390,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 105,
-      "digest": "sha256:1ce5c9516979dff17c3eb9f8668caa7092143029c554cec3e83125ea56f6e6dc",
+      "digest": "sha256:ff17c0ed5142f2a6813bd4d517c5d426c0c51941c5d7178106c68ea0ae903cb7",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256"
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894218",
-      "id": 603894218,
-      "node_id": "RA_kwDOTUmYAs4j_rHK",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987618",
+      "id": 611987618,
+      "node_id": "RA_kwDOTUmYAs4kejCi",
       "name": "alphai-tui-x86_64-unknown-linux-gnu.tar.xz",
       "label": "",
       "uploader": {
@@ -425,17 +425,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 3214520,
-      "digest": "sha256:93499057d46ec63bd50aa79e7fee42ab12822712f6690e5bfe997c63888dfb5e",
-      "download_count": 15,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:27Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
+      "size": 3286948,
+      "digest": "sha256:c17c90ddb72ad83798b7b9fc1dbef746a89c4be099477b34530cfdcc15780cbc",
+      "download_count": 7,
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:21Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894223",
-      "id": 603894223,
-      "node_id": "RA_kwDOTUmYAs4j_rHP",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987623",
+      "id": 611987623,
+      "node_id": "RA_kwDOTUmYAs4kejCn",
       "name": "alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -462,16 +462,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 110,
-      "digest": "sha256:43893e56b20ee6f1d64dfc72123a995e790bb564f49275a109249c1ada51108c",
+      "digest": "sha256:e0a3ee5083a223842791010223e8f060c195f2f4b7d5b49c8c30b3cd332c2441",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256"
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894226",
-      "id": 603894226,
-      "node_id": "RA_kwDOTUmYAs4j_rHS",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987622",
+      "id": 611987622,
+      "node_id": "RA_kwDOTUmYAs4kejCm",
       "name": "alphai-tui.rb",
       "label": "",
       "uploader": {
@@ -498,16 +498,16 @@
       "content_type": "application/x-ruby",
       "state": "uploaded",
       "size": 2477,
-      "digest": "sha256:3c6ce29973537d60ad0574662d0a4a47dcb3bb9863ba1fc0b3a9667c55c4f2c7",
-      "download_count": 1,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:26Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui.rb"
+      "digest": "sha256:af422abf6c232403378beabb59c3daf62203e33a16432e30054463e55abc6b57",
+      "download_count": 0,
+      "created_at": "2026-10-05T08:37:20Z",
+      "updated_at": "2026-10-05T08:37:20Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui.rb"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894228",
-      "id": 603894228,
-      "node_id": "RA_kwDOTUmYAs4j_rHU",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987636",
+      "id": 611987636,
+      "node_id": "RA_kwDOTUmYAs4kejC0",
       "name": "dist-manifest.json",
       "label": "",
       "uploader": {
@@ -533,17 +533,17 @@
       },
       "content_type": "application/json",
       "state": "uploaded",
-      "size": 24097,
-      "digest": "sha256:a7b753cc73c9c78db3ff494df909207a6644a3d0191c4262432857cccd206027",
+      "size": 23587,
+      "digest": "sha256:d8a6fa51eb10070b298ebcb213fbf3031075024b0d0fbd0bb638f70e1164656f",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:26Z",
-      "updated_at": "2026-10-01T18:42:27Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/dist-manifest.json"
+      "created_at": "2026-10-05T08:37:21Z",
+      "updated_at": "2026-10-05T08:37:21Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/dist-manifest.json"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894231",
-      "id": 603894231,
-      "node_id": "RA_kwDOTUmYAs4j_rHX",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987637",
+      "id": 611987637,
+      "node_id": "RA_kwDOTUmYAs4kejC1",
       "name": "sha256.sum",
       "label": "",
       "uploader": {
@@ -570,16 +570,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 613,
-      "digest": "sha256:189516c72f58c43492ba4c694e55213265f51cc02a7ebca5f1e2404cda5f6aba",
+      "digest": "sha256:73c1c90800691844fef4cb975c81229cd5c9a366a630a2bcbbd8dfca33f01728",
       "download_count": 2,
-      "created_at": "2026-10-01T18:42:27Z",
-      "updated_at": "2026-10-01T18:42:27Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/sha256.sum"
+      "created_at": "2026-10-05T08:37:21Z",
+      "updated_at": "2026-10-05T08:37:21Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/sha256.sum"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894238",
-      "id": 603894238,
-      "node_id": "RA_kwDOTUmYAs4j_rHe",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987639",
+      "id": 611987639,
+      "node_id": "RA_kwDOTUmYAs4kejC3",
       "name": "source.tar.gz",
       "label": "",
       "uploader": {
@@ -605,17 +605,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 10665017,
-      "digest": "sha256:7dc5dd9038d9f2f9a52966559a5d3d6b0acc2949ae92225072acb6e2a3d690e1",
-      "download_count": 1,
-      "created_at": "2026-10-01T18:42:27Z",
-      "updated_at": "2026-10-01T18:42:27Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz"
+      "size": 10680662,
+      "digest": "sha256:4eb29142217f6c8c8156dd22584afcdb7a557ce4e6a5fc0cac2611be6805e4bc",
+      "download_count": 0,
+      "created_at": "2026-10-05T08:37:21Z",
+      "updated_at": "2026-10-05T08:37:21Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/source.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/603894243",
-      "id": 603894243,
-      "node_id": "RA_kwDOTUmYAs4j_rHj",
+      "url": "https://api.github.com/repos/makeev/alphai-tui/releases/assets/611987638",
+      "id": 611987638,
+      "node_id": "RA_kwDOTUmYAs4kejC2",
       "name": "source.tar.gz.sha256",
       "label": "",
       "uploader": {
@@ -642,14 +642,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 81,
-      "digest": "sha256:47d222cddae0e162ae8f9688341c0216b74644384651664a2dfa2baf7c5cb3ae",
+      "digest": "sha256:281c768907fb68d312705cac5a19414ad324f64c10da01d3f74d84a46097d66d",
       "download_count": 0,
-      "created_at": "2026-10-01T18:42:27Z",
-      "updated_at": "2026-10-01T18:42:27Z",
-      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz.sha256"
+      "created_at": "2026-10-05T08:37:21Z",
+      "updated_at": "2026-10-05T08:37:21Z",
+      "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.30.0/source.tar.gz.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/makeev/alphai-tui/tarball/v0.29.0",
-  "zipball_url": "https://api.github.com/repos/makeev/alphai-tui/zipball/v0.29.0",
-  "body": "## Release Notes\n\n- Separate the current quote from the last chart bar: the quote rail shows\n  the quote's currency, feed and trade time, while the chart names the last\n  bar's close, feed and start time. Price markers distinguish quotes,\n  extended trades and bar closes. The header focuses on navigation and\n  connection status; hiding the rail restores quote details in the chart.\n- News cards lead with the selected company's AI impact and explanation,\n  before the general summary and other companies. The selected company\n  stays visible even when it appears after several others in the analysis.\n- Calendar gives long event names more room and reserves stronger color\n  for the event and its importance. Status labels remain visible on narrow\n  terminals.\n- Insider filings use a ledger with transaction date, side, value, owner\n  and a plan flag. Cards lead with the company, owner and trade facts,\n  followed by a separately labelled AI interpretation. Unknown trade dates\n  stay unknown, and buy/sell labels follow the filing rather than sentiment.\n- Shorten the README, bring installation and quick start forward, and\n  collapse the screenshot galleries while keeping the configuration,\n  scripting examples and provider limitations available.\n\n## Install alphai-tui 0.29.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.29.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"
+  "tarball_url": "https://api.github.com/repos/makeev/alphai-tui/tarball/v0.30.0",
+  "zipball_url": "https://api.github.com/repos/makeev/alphai-tui/zipball/v0.30.0",
+  "body": "## Release Notes\n\n- Fade price colors over 900 ms without changing text weight or decoration,\n  and show a fixed-width ASCII indicator while requests are in progress.\n  The new Animations settings row previews and saves an off switch; ANSI\n  themes retain their own palette and use a brief color highlight.\n- Render on input, data and clock changes, with a frame limit during\n  effects and slower refresh activity. Idle screens no longer rebuild ten\n  times a second, and slow terminals skip missed animation frames.\n- Reserve space for changing quote values and session countdowns on wide\n  rails. Truncate headlines by display cells without splitting graphemes.\n  Settings keep the selected row visible even in small panes.\n- Use synchronized output only when the current Unix terminfo entry\n  advertises a compatible Sync capability. End each frame on render errors\n  and unwinding too; missing support keeps ordinary output. The file-only\n  `ui.synchronized_output` switch can disable the extension.\n\n## Install alphai-tui 0.30.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.30.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"
 }
