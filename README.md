@@ -14,14 +14,14 @@ x install alphai-tui
 
 ## Code insight
 
-Total: **26,233** lines of code across **56** files in the top 5 languages.
+Total: **26,916** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,674 | 946 | 1,832 | 46 |
+| Rust | 26,352 | 952 | 1,872 | 50 |
 | Sh | 416 | 130 | 57 | 6 |
+| Toml | 45 | 10 | 4 | 2 |
 | Html | 44 | 0 | 5 | 1 |
-| Toml | 40 | 10 | 3 | 2 |
 | Yaml | 38 | 0 | 6 | 1 |
 
 ## Source
@@ -32,8 +32,8 @@ Total: **26,233** lines of code across **56** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.29.0` (2026-10-01)
-- **Last commit**: 2026-10-02
+- **Latest**: `v0.30.0` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 17
 
 ## Popularity
@@ -42,40 +42,40 @@ Total: **26,233** lines of code across **56** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 109
+- **Releases**: 29 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 17 | 0 | 0 | 0 | 0 | 29 |
-| last60d | 2026-08-06 | 20 | 0 | 0 | 0 | 0 | 51 |
-| 90d | 2026-07-07 | 28 | 0 | 0 | 1 | 0 | 68 |
-| last180d | 2026-04-08 | 28 | 0 | 0 | 1 | 0 | 109 |
-| 360d | 2025-10-10 | 28 | 0 | 0 | 1 | 0 | 109 |
-| last720d | 2024-10-15 | 28 | 0 | 0 | 1 | 0 | 109 |
+| 30d | 2026-09-06 | 17 | 0 | 0 | 0 | 0 | 30 |
+| last60d | 2026-08-07 | 21 | 0 | 0 | 0 | 0 | 52 |
+| 90d | 2026-07-08 | 29 | 0 | 0 | 1 | 0 | 69 |
+| last180d | 2026-04-09 | 29 | 0 | 0 | 1 | 0 | 110 |
+| 360d | 2025-10-11 | 29 | 0 | 0 | 1 | 0 | 110 |
+| last720d | 2024-10-16 | 29 | 0 | 0 | 1 | 0 | 110 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.7 MiB | `native/darwin/arm64` |
-| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/arm64/glibc` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
-| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
-| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 2.9 MiB | `native/darwin/x64` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 3.8 MiB | `native/win/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.1 MiB | `native/linux/x64/glibc` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
-| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/alphai-tui.rb) | 2.4 KiB | `other` |
-| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/dist-manifest.json) | 23.5 KiB | `other` |
-| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/sha256.sum) | 613 B | `other` |
-| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.29.0/source.tar.gz.sha256) | 81 B | `other` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.7 MiB | `native/darwin/arm64` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 2.9 MiB | `native/linux/arm64/glibc` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
+| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 3.0 MiB | `native/darwin/x64` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 3.9 MiB | `native/win/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.1 MiB | `native/linux/x64/glibc` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/alphai-tui.rb) | 2.4 KiB | `other` |
+| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/dist-manifest.json) | 23.0 KiB | `other` |
+| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/sha256.sum) | 613 B | `other` |
+| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.30.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:47:15Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:39:49Z._
