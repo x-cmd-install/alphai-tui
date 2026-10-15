@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2898972,
       "digest": "sha256:9491b5ab46a28d2e9323d87f26b1b5af63df2b7380c8499aaf3dff818116fa16",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-13T11:25:13Z",
       "updated_at": "2026-10-13T11:25:13Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.31.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3342916,
       "digest": "sha256:1e6bbd36c0bf1b1ae25a093d4be318ad2ae9b20c295ff1ec5b15579749ff2d33",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-13T11:25:14Z",
       "updated_at": "2026-10-13T11:25:14Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.31.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
