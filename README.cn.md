@@ -14,11 +14,11 @@ x install alphai-tui
 
 ## 代码洞察
 
-合计: **29,509** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
+合计: **29,959** 行代码（覆盖前 5 种语言、共 **67** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 28,945 | 1,008 | 2,027 | 56 |
+| Rust | 29,395 | 1,012 | 2,041 | 57 |
 | Sh | 416 | 130 | 57 | 6 |
 | Toml | 45 | 10 | 4 | 2 |
 | Html | 44 | 0 | 5 | 1 |
@@ -32,50 +32,50 @@ x install alphai-tui
 
 ## 发布
 
-- **最新版本**: `v0.34.0` (2026-10-16)
-- **最近提交**: 2026-10-16
+- **最新版本**: `v0.35.0` (2026-10-19)
+- **最近提交**: 2026-10-19
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 82 · **Fork**: 5 · **开放 issue**: 1 · **贡献者**: 1
+- **Star**: 83 · **Fork**: 5 · **开放 issue**: 1 · **贡献者**: 1
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 116
+- **发布数**: 35 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 117
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 12 | 0 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-20 | 25 | 0 | 0 | 0 | 0 | 55 |
-| 90d | 2026-07-21 | 32 | 0 | 0 | 1 | 0 | 62 |
-| last180d | 2026-04-22 | 34 | 0 | 0 | 1 | 0 | 116 |
-| 360d | 2025-10-24 | 34 | 0 | 0 | 1 | 0 | 116 |
-| last720d | 2024-10-29 | 34 | 0 | 0 | 1 | 0 | 116 |
+| 30d | 2026-09-20 | 13 | 0 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-21 | 26 | 0 | 0 | 0 | 0 | 56 |
+| 90d | 2026-07-22 | 32 | 0 | 0 | 1 | 0 | 63 |
+| last180d | 2026-04-23 | 35 | 0 | 0 | 1 | 0 | 117 |
+| 360d | 2025-10-25 | 35 | 0 | 0 | 1 | 0 | 117 |
+| last720d | 2024-10-30 | 35 | 0 | 0 | 1 | 0 | 117 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/arm64` |
-| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 3.0 MiB | `native/linux/arm64/glibc` |
-| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
-| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
-| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 3.1 MiB | `native/darwin/x64` |
-| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 4.0 MiB | `native/win/x64` |
-| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.2 MiB | `native/linux/x64/glibc` |
-| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
-| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui.rb) | 2.4 KiB | `other` |
-| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/dist-manifest.json) | 22.9 KiB | `other` |
-| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/sha256.sum) | 613 B | `other` |
-| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/source.tar.gz.sha256) | 81 B | `other` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/arm64` |
+| [alphai-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | 3.0 MiB | `native/linux/arm64/glibc` |
+| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [alphai-tui-installer.ps1](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-installer.ps1) | 21.8 KiB | `other` |
+| [alphai-tui-installer.sh](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-installer.sh) | 52.9 KiB | `other` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-apple-darwin.tar.xz) | 3.1 MiB | `native/darwin/x64` |
+| [alphai-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-pc-windows-msvc.zip) | 4.0 MiB | `native/win/x64` |
+| [alphai-tui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.2 MiB | `native/linux/x64/glibc` |
+| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [alphai-tui.rb](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui.rb) | 2.4 KiB | `other` |
+| [dist-manifest.json](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/dist-manifest.json) | 22.1 KiB | `other` |
+| [sha256.sum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/sha256.sum) | 613 B | `other` |
+| [source.tar.gz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/source.tar.gz) | 10.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ alphai-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:45:53Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T06:05:47Z._
