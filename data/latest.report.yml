@@ -2,97 +2,97 @@ about:
   description: "Open-source, Bloomberg-style stock dashboard for the terminal: live quotes and candlestick charts next to AI-scored news, SEC Form 4 insider filings and earnings reads from AlphAI. One Rust binary on ratatui."
   license: MIT
   homepage: https://alphai.io
-  head: 267427d
+  head: bf686a1
   archived: false
-  latestVersion: "v0.34.0"
-  latestRelease: "v0.34.0"
+  latestVersion: "v0.35.0"
+  latestRelease: "v0.35.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-19T05:45:44Z
+  collectedAt: 2026-10-20T06:05:37Z
 timeline:
   created: 2026-07-10
-  lastCommit: 2026-10-16
-  lastVersion: 2026-10-16
-  lastRelease: 2026-10-16
+  lastCommit: 2026-10-19
+  lastVersion: 2026-10-19
+  lastRelease: 2026-10-19
   lastPrerelease: 
 popularity:
-  star: 82
+  star: 83
   watcher: 1
   fork: 5
-  release: 34
+  release: 35
   contributor: 1
   pullRequest: 0
   issue: 1
 language:
-  Rust: 1289562
+  Rust: 1309632
   Shell: 23478
   Tape: 13215
   HTML: 3181
-totalBytes: 1329436
+totalBytes: 1349506
 recent:
   last30d:
-    since: 2026-09-19
-    release: 12
+    since: 2026-09-20
+    release: 13
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 18
+    commit: 19
   last60d:
-    since: 2026-08-20
-    release: 25
+    since: 2026-08-21
+    release: 26
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 55
+    commit: 56
   last90d:
-    since: 2026-07-21
+    since: 2026-07-22
     release: 32
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 62
+    commit: 63
   last180d:
-    since: 2026-04-22
-    release: 34
+    since: 2026-04-23
+    release: 35
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 116
+    commit: 117
   last360d:
-    since: 2025-10-24
-    release: 34
+    since: 2025-10-25
+    release: 35
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 116
+    commit: 117
   last720d:
-    since: 2024-10-29
-    release: 34
+    since: 2024-10-30
+    release: 35
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 116
+    commit: 117
 total:
-  release: 34
+  release: 35
   mergedPR: 0
   openPR: 0
   closedIssue: 1
   openIssue: 0
-  commit: 116
+  commit: 117
 ---
 path: /home/runner/.x-repo/github.com/makeev/alphai-tui
-collectedAt: 2026-10-19T05:45:46Z
+collectedAt: 2026-10-20T06:05:39Z
 loc:
   Rust:
-    code: 28945
-    comments: 1008
-    blanks: 2027
-    files: 56
+    code: 29395
+    comments: 1012
+    blanks: 2041
+    files: 57
   Sh:
     code: 416
     comments: 130
@@ -120,15 +120,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1723
-    blanks: 304
+    comments: 1737
+    blanks: 306
     files: 5
 total:
-  code: 29630
-  comments: 5809
-  blanks: 2463
-  files: 72
+  code: 30081
+  comments: 5843
+  blanks: 2479
+  files: 73
 ---
 
 ---
-{"id":415213812,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOTUmYAs4Yv6j0","tag_name":"v0.34.0","target_commitish":"267427d30bbc022e704b94a875d524790bd11d47","name":"0.34.0 - 2026-10-16","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-16T17:21:00Z","updated_at":"2026-10-16T17:34:36Z","published_at":"2026-10-16T17:34:36Z","assets":[{"id":648077813,"node_id":"RA_kwDOTUmYAs4moOH1","name":"alphai-tui-aarch64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":2920184,"digest":"sha256:63e61d1cdc7ba996124cb905f30075fe0b877f6730531b5bcd91cc2ff8c0b9b6","download_count":8,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077814,"node_id":"RA_kwDOTUmYAs4moOH2","name":"alphai-tui-aarch64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":106,"digest":"sha256:4a9f15fe8a8fba86fdd43e6a4137d76d421fcd125320d95eff918afcc309e3b6","download_count":1,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077819,"node_id":"RA_kwDOTUmYAs4moOH7","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3109724,"digest":"sha256:b5d8540079ee709904886f64dc6819b7c5d15ab1413758787f266236bd544734","download_count":3,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077816,"node_id":"RA_kwDOTUmYAs4moOH4","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":111,"digest":"sha256:dfa33a4749634ec0e60e4a6923543617f67bd06a03888cd75ad048b506c056bc","download_count":0,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077815,"node_id":"RA_kwDOTUmYAs4moOH3","name":"alphai-tui-installer.ps1","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22331,"digest":"sha256:3720c002497aa17b337d7b0d9ae72041b03ff28806f29c23ba7c94f2493884e9","download_count":4,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077848,"node_id":"RA_kwDOTUmYAs4moOIY","name":"alphai-tui-installer.sh","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-shellscript","state":"uploaded","size":54195,"digest":"sha256:81f586f72503a54b4dab19d884e7691b6b4073f48b72ae3a428fa73cdbe14162","download_count":1,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:33Z"},{"id":648077850,"node_id":"RA_kwDOTUmYAs4moOIa","name":"alphai-tui-x86_64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3222892,"digest":"sha256:91b221f61f1992f51c7f14ce11ddac3b2393e4b212ef0487c0f88e091478942d","download_count":0,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077863,"node_id":"RA_kwDOTUmYAs4moOIn","name":"alphai-tui-x86_64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:326d5eb6bb4dca5b7dd8262c6d1013be9a5462e096554bc08a99557db434cd95","download_count":0,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077857,"node_id":"RA_kwDOTUmYAs4moOIh","name":"alphai-tui-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":4181403,"digest":"sha256:d0010413affff62ee78c29e11b0235c602579982d76c0eeee357569401f65b35","download_count":5,"created_at":"2026-10-16T17:34:33Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077884,"node_id":"RA_kwDOTUmYAs4moOI8","name":"alphai-tui-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:274d1d69f285a45f51f8fcfa6093beb30c98d834ffdddc70d7b1d274c0c6a907","download_count":0,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077890,"node_id":"RA_kwDOTUmYAs4moOJC","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3367088,"digest":"sha256:8b479ddf2eb76a85548c75345abb7cac95f808eb52b09a13dfaae37c62b440fc","download_count":15,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077899,"node_id":"RA_kwDOTUmYAs4moOJL","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":110,"digest":"sha256:4c35076f068c79d1c7e9492f17eabe6d42d808a964114f8ee6296ac8e26def44","download_count":0,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077898,"node_id":"RA_kwDOTUmYAs4moOJK","name":"alphai-tui.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":2477,"digest":"sha256:cab89a210428b3b1398584596a182efbbddb6c3077ad3f041f1300683073db41","download_count":0,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077909,"node_id":"RA_kwDOTUmYAs4moOJV","name":"dist-manifest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":23481,"digest":"sha256:1dd722d748a7a7c2ed9fc1779d597c2a92820de8c0de84e0b554bdaf02f7ff9b","download_count":0,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:34Z"},{"id":648077918,"node_id":"RA_kwDOTUmYAs4moOJe","name":"sha256.sum","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":613,"digest":"sha256:34c29d891b9baf2a62fdd3173d7d6a8e16b9aff47b959aaad3cef4d87c645bd4","download_count":2,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:35Z"},{"id":648077924,"node_id":"RA_kwDOTUmYAs4moOJk","name":"source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":10710544,"digest":"sha256:39caf7ff9ebdad24c4275594b3ec6c9467fbf05f9ec00b063d4b2b3d8cdae140","download_count":0,"created_at":"2026-10-16T17:34:34Z","updated_at":"2026-10-16T17:34:35Z"},{"id":648077936,"node_id":"RA_kwDOTUmYAs4moOJw","name":"source.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81,"digest":"sha256:9e3f29c8e1b86a3e6f095fa10b585c7889986dff8daed45c4fc05a432a65bd93","download_count":0,"created_at":"2026-10-16T17:34:35Z","updated_at":"2026-10-16T17:34:35Z"}],"body":"## Release Notes\n\n- `/` finds a watchlist ticker from any view.\n  Type part of its symbol or company name, move with the arrow keys and\n  press Enter to select it; Esc leaves the ticker and reading position\n  alone. Exact symbols come first, then prefixes and other matches. The\n  results show regular-session quotes, daily changes and cached or stale\n  labels where needed. Company names come with Yahoo quotes and survive\n  in the quote cache; other sources can still be searched by symbol.\n  Searching adds no requests and does not edit the saved watchlist.\n  Portfolio selects the matching holding, or opens the chart if it is not held.\n  The opening key can be changed with `find_ticker` in `[keybindings]`.\n- Split gives the chart 70% of the height, with the watchlist and news\n  sharing the remaining 30% below it.\n- Update the locked transitive `chacha20` dependency from the yanked\n  0.10.1 release to 0.10.2, removing the packaging warning.\n\n## Install alphai-tui 0.34.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.34.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.34.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"}
+{"id":417305119,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOTUmYAs4Y35If","tag_name":"v0.35.0","target_commitish":"bf686a18b32a3d0c0b6bab449cb99703dbf83de6","name":"0.35.0 - 2026-10-19","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-19T12:59:30Z","updated_at":"2026-10-19T13:09:04Z","published_at":"2026-10-19T13:09:04Z","assets":[{"id":656311591,"node_id":"RA_kwDOTUmYAs4nHoUn","name":"alphai-tui-aarch64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":2921032,"digest":"sha256:933ff2582c89e7cd0044b3e0400cf1f94bfbcf3402cbf85d9810cd420ca2aa1b","download_count":3,"created_at":"2026-10-19T13:09:01Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311588,"node_id":"RA_kwDOTUmYAs4nHoUk","name":"alphai-tui-aarch64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":106,"digest":"sha256:317c09ad9f326b5f99f9c116c3a3f29ac23e195490e97d0fb6b6888f6269eaec","download_count":0,"created_at":"2026-10-19T13:09:01Z","updated_at":"2026-10-19T13:09:01Z"},{"id":656311587,"node_id":"RA_kwDOTUmYAs4nHoUj","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3108256,"digest":"sha256:e9e415d2ab5db4024fe24cca63d2af56e3954c85baa761e3787eb25fed4d69cb","download_count":3,"created_at":"2026-10-19T13:09:01Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311596,"node_id":"RA_kwDOTUmYAs4nHoUs","name":"alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":111,"digest":"sha256:fcbb79f0d99a5920ead43a262969c893265fc3adf223f59157bebc233411eb9b","download_count":0,"created_at":"2026-10-19T13:09:01Z","updated_at":"2026-10-19T13:09:01Z"},{"id":656311590,"node_id":"RA_kwDOTUmYAs4nHoUm","name":"alphai-tui-installer.ps1","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22331,"digest":"sha256:bd427defa0923a9ac07bd16190fc7dbfe4750cdfc8ab3e12dcae8d85e0f098e9","download_count":0,"created_at":"2026-10-19T13:09:01Z","updated_at":"2026-10-19T13:09:01Z"},{"id":656311619,"node_id":"RA_kwDOTUmYAs4nHoVD","name":"alphai-tui-installer.sh","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-shellscript","state":"uploaded","size":54195,"digest":"sha256:be0e2ffa63236584a52c66a7ecd992ec47062b57de5e398e66bc20392c9a2794","download_count":1,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311618,"node_id":"RA_kwDOTUmYAs4nHoVC","name":"alphai-tui-x86_64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3229492,"digest":"sha256:cc97a845359145f920b463e528322d60f61719a4afadf59346a5bef7127c5033","download_count":0,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311621,"node_id":"RA_kwDOTUmYAs4nHoVF","name":"alphai-tui-x86_64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:76f3d734cbc41a742d4f360290bfb9a05140fe337d5609b1e25e8ae6e4040847","download_count":0,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311629,"node_id":"RA_kwDOTUmYAs4nHoVN","name":"alphai-tui-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":4181078,"digest":"sha256:5fa0d6fab5f77b0eb25ebc5db0cc910e706066ff57a76344e9d6058f44967616","download_count":0,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311645,"node_id":"RA_kwDOTUmYAs4nHoVd","name":"alphai-tui-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:1e857d93eca14d13d90f823afb4734f8bb28f7c3ec0fa8b7d26072155bd746b1","download_count":0,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:02Z"},{"id":656311652,"node_id":"RA_kwDOTUmYAs4nHoVk","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":3368156,"digest":"sha256:3e1691a2430da8cdda4104b181acf010d73ea255ec0d57a6a49b59a8a3a02e86","download_count":9,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:03Z"},{"id":656311654,"node_id":"RA_kwDOTUmYAs4nHoVm","name":"alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":110,"digest":"sha256:6b38a753f6403d20e7f481524ada2c5400128efaad4751725401a8982d966e0a","download_count":0,"created_at":"2026-10-19T13:09:02Z","updated_at":"2026-10-19T13:09:03Z"},{"id":656311664,"node_id":"RA_kwDOTUmYAs4nHoVw","name":"alphai-tui.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":2477,"digest":"sha256:a10f46f43d228a9ad90d7a8090b24f9273d4e020150841fad5cb21eb0b1a1926","download_count":0,"created_at":"2026-10-19T13:09:03Z","updated_at":"2026-10-19T13:09:03Z"},{"id":656311668,"node_id":"RA_kwDOTUmYAs4nHoV0","name":"dist-manifest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":22617,"digest":"sha256:4b515a2b9296061697bb144c3d61a082a4066c1e650f9a4bd7ddd1a8cc7040cb","download_count":0,"created_at":"2026-10-19T13:09:03Z","updated_at":"2026-10-19T13:09:03Z"},{"id":656311673,"node_id":"RA_kwDOTUmYAs4nHoV5","name":"sha256.sum","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":613,"digest":"sha256:e0cef358c3f726316c41fd453cddbc6986eaf77c364c8bb1d6a8a53da98b6343","download_count":1,"created_at":"2026-10-19T13:09:03Z","updated_at":"2026-10-19T13:09:03Z"},{"id":656311672,"node_id":"RA_kwDOTUmYAs4nHoV4","name":"source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":10714981,"digest":"sha256:7867c1372ef29d769aaa751b811798e6593128ace1b5b16b08362a2107303502","download_count":0,"created_at":"2026-10-19T13:09:03Z","updated_at":"2026-10-19T13:09:04Z"},{"id":656311680,"node_id":"RA_kwDOTUmYAs4nHoWA","name":"source.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81,"digest":"sha256:af0f733eb28f4555693da6cb8bb8f16b777bcb66cac6820cc6c20c79efeb3b11","download_count":0,"created_at":"2026-10-19T13:09:03Z","updated_at":"2026-10-19T13:09:03Z"}],"body":"## Release Notes\n\n- Ticker news now groups reprints into one row per story by default, like\n  the market feed, with an outlet count such as `\u00d74`. The new **Collapse news**\n  setting controls both feeds; turn it off and Save to see every article.\n  The same choice is available as `[ui] collapse_news` in the config file.\n  Changing the option refreshes the news feed without restarting.\n  Grouped stories also stay together across pages and live updates when\n  their representative article changes. Trending remains grouped.\n\n## Install alphai-tui 0.35.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.35.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.35.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"}
