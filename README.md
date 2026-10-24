@@ -48,12 +48,12 @@ Total: **29,959** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 12 | 0 | 0 | 0 | 0 | 19 |
-| last60d | 2026-08-24 | 26 | 0 | 0 | 0 | 0 | 56 |
-| 90d | 2026-07-25 | 30 | 0 | 0 | 0 | 0 | 63 |
-| last180d | 2026-04-26 | 35 | 0 | 0 | 1 | 0 | 117 |
-| 360d | 2025-10-28 | 35 | 0 | 0 | 1 | 0 | 117 |
-| last720d | 2024-11-02 | 35 | 0 | 0 | 1 | 0 | 117 |
+| 30d | 2026-09-24 | 12 | 0 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-25 | 26 | 0 | 0 | 0 | 0 | 56 |
+| 90d | 2026-07-26 | 29 | 0 | 0 | 0 | 0 | 63 |
+| last180d | 2026-04-27 | 35 | 0 | 0 | 1 | 0 | 117 |
+| 360d | 2025-10-29 | 35 | 0 | 0 | 1 | 0 | 117 |
+| last720d | 2024-11-03 | 35 | 0 | 0 | 1 | 0 | 117 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:55:14Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:41:58Z._
