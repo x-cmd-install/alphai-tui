@@ -1,0 +1,133 @@
+about:
+  description: "Open-source, Bloomberg-style stock dashboard for the terminal: live quotes and candlestick charts next to AI-scored news, SEC Form 4 insider filings and earnings reads from AlphAI. One Rust binary on ratatui."
+  license: MIT
+  homepage: https://alphai.io
+  head: 0ede3a1
+  archived: false
+  latestVersion: "v0.36.0"
+  latestRelease: "v0.36.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-28T06:50:58Z
+timeline:
+  created: 2026-07-10
+  lastCommit: 2026-10-27
+  lastVersion: 2026-10-27
+  lastRelease: 2026-10-27
+  lastPrerelease: 
+popularity:
+  star: 88
+  watcher: 1
+  fork: 5
+  release: 36
+  contributor: 1
+  pullRequest: 0
+  issue: 2
+language:
+  Rust: 1348014
+  Shell: 23478
+  Tape: 13215
+  HTML: 3181
+totalBytes: 1387888
+recent:
+  last30d:
+    since: 2026-09-28
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 10
+  last60d:
+    since: 2026-08-29
+    release: 26
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 53
+  last90d:
+    since: 2026-07-30
+    release: 29
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 63
+  last180d:
+    since: 2026-05-01
+    release: 36
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 118
+  last360d:
+    since: 2025-11-02
+    release: 36
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 118
+  last720d:
+    since: 2024-11-07
+    release: 36
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 118
+total:
+  release: 36
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 1
+  openIssue: 1
+  commit: 118
+---
+path: /home/runner/.x-repo/github.com/makeev/alphai-tui
+collectedAt: 2026-10-28T06:51:00Z
+loc:
+  Rust:
+    code: 30242
+    comments: 1056
+    blanks: 2101
+    files: 60
+  Sh:
+    code: 416
+    comments: 130
+    blanks: 57
+    files: 6
+  Toml:
+    code: 45
+    comments: 10
+    blanks: 4
+    files: 2
+  Html:
+    code: 44
+    comments: 0
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 38
+    comments: 0
+    blanks: 6
+    files: 1
+  Json:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1767
+    blanks: 309
+    files: 5
+total:
+  code: 30929
+  comments: 5995
+  blanks: 2543
+  files: 76
+---
+
+---
