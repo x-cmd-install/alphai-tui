@@ -33,7 +33,7 @@ Total: **30,806** lines of code across **70** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.36.0` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-31
 - **Assets in release**: 17
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **30,806** lines of code across **70** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 118
+- **Releases**: 36 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 9 | 0 | 0 | 0 | 1 | 10 |
-| last60d | 2026-09-01 | 26 | 0 | 0 | 0 | 1 | 53 |
-| 90d | 2026-08-02 | 29 | 0 | 0 | 0 | 1 | 63 |
-| last180d | 2026-05-04 | 36 | 0 | 0 | 1 | 1 | 118 |
-| 360d | 2025-11-05 | 36 | 0 | 0 | 1 | 1 | 118 |
-| last720d | 2024-11-10 | 36 | 0 | 0 | 1 | 1 | 118 |
+| 30d | 2026-10-02 | 8 | 0 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-02 | 26 | 0 | 0 | 1 | 0 | 49 |
+| 90d | 2026-08-03 | 29 | 0 | 0 | 1 | 0 | 62 |
+| last180d | 2026-05-05 | 36 | 0 | 0 | 2 | 0 | 119 |
+| 360d | 2025-11-06 | 36 | 0 | 0 | 2 | 0 | 119 |
+| last720d | 2024-11-11 | 36 | 0 | 0 | 2 | 0 | 119 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for alphai-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:56:37Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:17:52Z._
