@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3004132,
       "digest": "sha256:9e58dfca94d4d71b8da04af5140df1f27e0a93b96ef38543044547c12ac1cbf2",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-11-07T18:22:19Z",
       "updated_at": "2026-11-07T18:22:20Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3189652,
       "digest": "sha256:496968b9bbc50d906416d72abfe783b0958128e7971e18e972990d8d39ea35b5",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T18:22:19Z",
       "updated_at": "2026-11-07T18:22:19Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22331,
       "digest": "sha256:9a7283be6de2f50763fab02c9dd05adc437918f5a165e921276c7372392456a2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T18:22:19Z",
       "updated_at": "2026-11-07T18:22:19Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54195,
       "digest": "sha256:b41f517489af9b190e9a99acf65c116473595c880a4fa0cd8dc768908088272d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T18:22:20Z",
       "updated_at": "2026-11-07T18:22:20Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.sh"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3313504,
       "digest": "sha256:d14f9cb03db8b650da650b7b503e0bf0694bf77baee9b5927ecdfc25eb2caf0e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T18:22:20Z",
       "updated_at": "2026-11-07T18:22:20Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-apple-darwin.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4319607,
       "digest": "sha256:4d432a8d70e43e34a474dc7c7e0483952cda36cfc827b8f28cabb3d4af2421ea",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T18:22:20Z",
       "updated_at": "2026-11-07T18:22:21Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3461644,
       "digest": "sha256:5e48de9d2f4ee941cd3fb76d5ca0955339f7463759db27ede4665089e2d19405",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-11-07T18:22:20Z",
       "updated_at": "2026-11-07T18:22:21Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
@@ -651,5 +651,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/makeev/alphai-tui/tarball/v0.40.0",
   "zipball_url": "https://api.github.com/repos/makeev/alphai-tui/zipball/v0.40.0",
-  "body": "## Release Notes\n\n- Calendar now combines macro releases with AlphAI's batched earnings calendar\n  for watchlist and portfolio tickers. Scheduled, reported with a read pending,\n  and read available states show sessions, filing times and earnings verdicts.\n- `f` filters All / Reports / Macro; `v` opens full event details. Enter opens\n  the exact linked read, preserving the selected share class and portfolio\n  context. Pending reads keep the displayed document until an explicit refresh.\n- A shared near window replaces the per-company full-history sweep. Default\n  continuous Calendar polling for up to 50 names uses about 32 calendar requests\n  per day including macro, before other activity. Corporate polling has one-hour\n  and six-hour floors; errors wait for manual retry.\n\n## Install alphai-tui 0.40.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.40.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"
+  "body": "## Release Notes\n\n- Calendar now combines macro releases with AlphAI's batched earnings calendar\n  for watchlist and portfolio tickers. Scheduled, reported with a read pending,\n  and read available states show sessions, filing times and earnings verdicts.\n- `f` filters All / Reports / Macro; `v` opens full event details. Enter opens\n  the exact linked read, preserving the selected share class and portfolio\n  context. Pending reads keep the displayed document until an explicit refresh.\n- A shared near window replaces the per-company full-history sweep. Default\n  continuous Calendar polling for up to 50 names uses about 32 calendar requests\n  per day including macro, before other activity. Corporate polling has one-hour\n  and six-hour floors; errors wait for manual retry.\n\n## Install alphai-tui 0.40.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install makeev/tap/alphai-tui\n```\n\n## Download alphai-tui 0.40.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [alphai-tui-aarch64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-apple-darwin.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [alphai-tui-x86_64-pc-windows-msvc.zip](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-pc-windows-msvc.zip.sha256) |\n| [alphai-tui-aarch64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [alphai-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/makeev/alphai-tui/releases/download/v0.40.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/makeev/alphai-tui/releases/437757315/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
