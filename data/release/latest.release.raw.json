@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3167156,
       "digest": "sha256:a36878937638f452f52c9d46ad96db7822c93cfce008e81f8f68a28f5cd896c4",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-15T08:51:07Z",
       "updated_at": "2026-11-15T08:51:07Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.43.0/alphai-tui-aarch64-apple-darwin.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22331,
       "digest": "sha256:77d89e888066390d7b39785343b248a31106015c29f96bf2f9a2c82a5c13e7d2",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-15T08:51:07Z",
       "updated_at": "2026-11-15T08:51:07Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.43.0/alphai-tui-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54195,
       "digest": "sha256:cce25d68a11372d0beabfd20f81482fbf6243861c5148b859984a5175be36144",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-15T08:51:07Z",
       "updated_at": "2026-11-15T08:51:08Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.43.0/alphai-tui-installer.sh"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4616901,
       "digest": "sha256:18211bf9f96255ff7608a9a8b8148a6c493615960f9adfc32301478caf77a8b8",
-      "download_count": 49,
+      "download_count": 79,
       "created_at": "2026-11-15T08:51:08Z",
       "updated_at": "2026-11-15T08:51:08Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.43.0/alphai-tui-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3665256,
       "digest": "sha256:892b7dc29687b1b8c59d15844bc9c4f0a82d907094415710077db5301f203f21",
-      "download_count": 13,
+      "download_count": 24,
       "created_at": "2026-11-15T08:51:08Z",
       "updated_at": "2026-11-15T08:51:08Z",
       "browser_download_url": "https://github.com/makeev/alphai-tui/releases/download/v0.43.0/alphai-tui-x86_64-unknown-linux-gnu.tar.xz"
